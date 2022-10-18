@@ -1,0 +1,48 @@
+src/main.o src/main.o: ../src/main.c ../src/platform.h \
+ ../src/platform_config.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/bspconfig.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xgpio.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xstatus.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xgpio_l.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_io.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h \
+ D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/sleep.h
+
+../src/platform.h:
+
+../src/platform_config.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/bspconfig.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xgpio.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xstatus.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xgpio_l.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_io.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_printf.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h:
+
+D:/FPGA/MicroBlaze_Led/MicroBlaze_Led_vitis/design_MicoBlaze_Led_wrapper/export/design_MicoBlaze_Led_wrapper/sw/design_MicoBlaze_Led_wrapper/domain_microblaze_0/bspinclude/include/sleep.h:
